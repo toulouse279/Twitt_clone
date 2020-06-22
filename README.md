@@ -1,4 +1,4 @@
-### What this clone do
+### What this app do
 The app itself feature a basic CRUD principle where we can create, read, update, and destroy *Tweeets*. 
 
 
